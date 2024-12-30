@@ -1,5 +1,12 @@
-# Welcome to GitHub Desktop!
+# Primeiro Projeto Python
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Este projeto é um exercíco do meu aprendizado no Curso Analista de Dados da EBAC.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Como executar o script .sh:
+
+1. **Clonar o repositório:** `git clone https://github.com/julimarpoliveira2902/`Primeiro_projeto.ipynb`
+
+3. **Navegar para o diretório do projeto:** `cd Primeiro_projeto.ipynb`
+4. **Executar o script:** `bash Primeiro_projeto.sh`
+
+## Explicação do código Python:
